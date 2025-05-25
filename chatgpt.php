@@ -1,7 +1,7 @@
 <?php
 $prompt = $_GET['prompt'] ?? '';
 
-$api_key = 'sk-ваш_ключ_сюда'; // <-- сюда вставь свой OpenAI API-ключ
+$api_key = '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'; // <-- сюда вставь свой OpenAI API-ключ
 
 $data = [
     "model" => "gpt-3.5-turbo",
